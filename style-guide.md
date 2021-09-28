@@ -29,4 +29,5 @@ The designs were created to the following widths:
 ### Font
 
 - Family: [Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display)
+- font-family: 'Red Hat Display', sans-serif;
 - Weights: 500, 700, 900
